@@ -1,8 +1,5 @@
 # StudentManagementSystem
 
-```markdown
-# Student Management System using Java Swing
-
 ## Introduction
 
 Welcome to the Student Management System, a Java Swing-based application designed to streamline and simplify the process of managing student information. This system provides an intuitive user interface, allowing users to perform various tasks related to student data, grades, and attendance.
