@@ -27,7 +27,7 @@ Follow these steps to get the Student Management System up and running on your l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://github.com/kamalagrahari03/student-management-system.git
    ```
 
 2. Open the project in your favorite Java IDE.
