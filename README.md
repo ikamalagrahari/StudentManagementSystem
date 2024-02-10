@@ -51,4 +51,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 For any questions or inquiries, please contact Kamal Agrahari at kamalagrahari2003@gmail.com.
 
-```
